@@ -1,6 +1,6 @@
 # Image-Captioning-WebApp
 
-Image-Captioning-WebApp is a application that provides details about images feed into it and reads out the details.
+Image-Captioning-WebApp is a application that provides details about images feed into it and reads them out.
 
 ## Installation
 
@@ -41,6 +41,10 @@ InceptionV3 giving us a vector of shape (8, 8, 2048).
 ● This vector is then passed through the CNN Encoder (which consists of a single
 Fully connected layer).  
 ● The RNN (here GRU) attends over the image to predict the next word.
+
+## Example
+
+![alt text](https://github.com/Harsh5557/Image-Captioning-WebApp/blob/master/static/img/paper.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
