@@ -13,6 +13,8 @@ Change the directory to the current folder on powershell (Windows).
 python caption.py
 ```
 1. Go to https:// 127.0.0.1:5000/image-caption/ on web browser.
+2. Upload the required Image.
+3. Wait for the image to be processed.
 
 ## Working
 
@@ -44,7 +46,7 @@ Fully connected layer).
 
 ## Example
 
-![alt text](https://github.com/Harsh5557/Image-Captioning-WebApp/blob/master/static/img/paper.png)
+![alt text](https://github.com/Harsh5557/Image-Captioning-WebApp/blob/master/static/img/Cattle.JPG)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
