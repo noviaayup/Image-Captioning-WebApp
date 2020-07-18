@@ -28,19 +28,3 @@ glob
 PIL
 pickle
 
-
-
-Details of files:
-
-1.run_script.py contains the code for the deep learning model.
-2.caption.py contains the code for the flask based web application.
-3.templates folder contains the html of web pages.
-4.static folder stores information.
-5.checkpoints contains the trained deep learning model parameters.
-
-
-
-Procedure:
-
-1. Open powershell in the Group_2 folder.
-2. Watch the Demo_video for further instructions. 
