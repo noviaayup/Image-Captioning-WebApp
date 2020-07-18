@@ -1,0 +1,46 @@
+Python 3.6
+cuDNN 10(GPU software) must be installed
+
+
+Libraries Required:
+
+tensorboard==2.1.1
+tensorboardcolab==0.0.22
+tensorflow==2.1.0
+tensorflow-addons==0.8.3
+tensorflow-datasets==2.1.0
+tensorflow-estimator==2.1.0
+tensorflow-federated==0.12.0
+tensorflow-gcs-config==2.1.8
+tensorflow-hub==0.7.0
+tensorflow-metadata==0.21.1
+tensorflow-model-optimization==0.2.1
+tensorflow-privacy==0.2.2
+tensorflow-probability==0.9.0
+matplotlib
+sklearn
+re
+numpy
+os
+time
+json
+glob
+PIL
+pickle
+
+
+
+Details of files:
+
+1.run_script.py contains the code for the deep learning model.
+2.caption.py contains the code for the flask based web application.
+3.templates folder contains the html of web pages.
+4.static folder stores information.
+5.checkpoints contains the trained deep learning model parameters.
+
+
+
+Procedure:
+
+1. Open powershell in the Group_2 folder.
+2. Watch the Demo_video for further instructions. 
