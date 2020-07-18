@@ -1,6 +1,6 @@
 # Image-Captioning-WebApp
 
-Image-Captioning-WebApp is a application that Captions images feed into it.
+Image-Captioning-WebApp is a application that provides details about images feed into it and reads out the details.
 
 ## Installation
 
@@ -36,10 +36,10 @@ other words with the token "UNK" (unknown).
 ## Model Details
 
 ● Extracted the image features from the lower convolutional layer of
-InceptionV3 giving us a vector of shape (8, 8, 2048).
-● Then squashed that to the shape of (64, 2048).
+InceptionV3 giving us a vector of shape (8, 8, 2048).  
+● Then squashed that to the shape of (64, 2048).  
 ● This vector is then passed through the CNN Encoder (which consists of a single
-Fully connected layer).
+Fully connected layer).  
 ● The RNN (here GRU) attends over the image to predict the next word.
 
 ## Contributing
