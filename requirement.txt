@@ -1,9 +1,5 @@
 Python 3.6
-cuDNN 10(GPU software) must be installed
-
-
-Libraries Required:
-
+cuDNN 10.2
 tensorboard==2.1.1
 tensorboardcolab==0.0.22
 tensorflow==2.1.0
