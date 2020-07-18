@@ -4,8 +4,8 @@ Image-Captioning-WebApp is a application that Captions images feed into it.
 
 ## Installation
 
-Install all the dependencies mentioned in requiremnt.txt.
-Change the directory to the current folder on powershell.
+Install all the dependencies mentioned in requirement.txt.
+Change the directory to the current folder on powershell (Windows).
 
 ## Usage
 
